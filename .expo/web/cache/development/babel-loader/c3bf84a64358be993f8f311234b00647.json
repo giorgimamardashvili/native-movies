@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var key = \"d3187b47ed694557a7277acb16399aa5\";","map":{"version":3,"sources":["C:/Users/overlord/Desktop/giorgi/game/vars.jsx"],"names":["key"],"mappings":"AAAA,OAAO,IAAMA,GAAG,GAAG,kCAAZ","sourcesContent":["export const key = \"d3187b47ed694557a7277acb16399aa5\";\r\n"]},"metadata":{},"sourceType":"module"}
